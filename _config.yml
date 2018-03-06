@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Anurag Bansal"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "College Park, Maryland"
   employer         :  Autonomy, Robotics and Cognition Laboratory
   googlescholar    : 
