@@ -10,4 +10,4 @@ redirect_from:
 
 Hello! I am a Masters student pursuing Robotics Engineering at A James. Clark School of Engineering of University of Maryland, College Park. I am a member of [Perception and Robotics Group (PRG)](http://prg.cs.umd.edu/) under the guidance of Professor [Yiannis Aloimonos](http://legacydirs.umiacs.umd.edu/~yiannis/) and Dr. [Cornelia Fermüller](http://legacydirs.umiacs.umd.edu/~fer/).
 
-My research interests are Computer Vision, Machine Learning and Robotics. I am curently working on autonomous landing and takeoff of a Quadracopter for research and rescue operations.
+My research interests are Computer Vision, Machine Learning and Robotics. I am curently working on autonomous landing and takeoff of a Quadracopter for search and rescue operations.
