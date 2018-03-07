@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "Anurag Bansal"
 excerpt: "About me"
