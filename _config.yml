@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AB"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Anurag Bansal"
 description              : &description "personal description"
