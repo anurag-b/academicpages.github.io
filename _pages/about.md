@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Masters student pursuing Robotics Engineering at the University of Maryland, College Park. I am a member of [Perception and Robotics Group (PRG)](http://prg.cs.umd.edu/) under the guidance of Professor [Yiannis Aloimonos](http://legacydirs.umiacs.umd.edu/~yiannis/) and Dr. [Cornelia Fermüller](http://legacydirs.umiacs.umd.edu/~fer/). 
+I am a Masters student pursuing Robotics Engineering at the University of Maryland, College Park. Currently, I am employed as a Computer Vision Engineer Intern at Lucid VR. Inc. under the mentorship of Dr. Adam Rowell. Previously, I was a member of [Perception and Robotics Group (PRG)](http://prg.cs.umd.edu/) under the guidance of Professor [Yiannis Aloimonos](http://legacydirs.umiacs.umd.edu/~yiannis/) and Dr. [Cornelia Fermüller](http://legacydirs.umiacs.umd.edu/~fer/). 
 
-My research interests are Computer Vision, Machine Learning and Robotics. I am curently working on various approaches to Traffic Sign Recognition and Visual Odometry for autonomous driving cars (ADAS).
+My research interests are Computer Vision, Machine Learning and Robotics. I am curently working on various approaches to generating depth and disparity maps.
